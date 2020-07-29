@@ -101,3 +101,7 @@ h1{
  text-align: center;
  padding-top: 10px;
 }
+
+header .navbar-default{
+ border: 0;
+}
